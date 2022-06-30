@@ -1,0 +1,8 @@
+Collecting python-jose
+  Using cached python_jose-3.3.0-py2.py3-none-any.whl (33 kB)
+Requirement already satisfied: ecdsa!=0.15 in c:\users\master p\desktop\coffee-shop\cd0039-identity-and-access-management\project\coffees-shop\coenv\lib\site-packages (from python-jose) (0.17.0)
+Requirement already satisfied: pyasn1 in c:\users\master p\desktop\coffee-shop\cd0039-identity-and-access-management\project\coffees-shop\coenv\lib\site-packages (from python-jose) (0.4.8)
+Requirement already satisfied: rsa in c:\users\master p\desktop\coffee-shop\cd0039-identity-and-access-management\project\coffees-shop\coenv\lib\site-packages (from python-jose) (4.8)
+Requirement already satisfied: six>=1.9.0 in c:\users\master p\desktop\coffee-shop\cd0039-identity-and-access-management\project\coffees-shop\coenv\lib\site-packages (from ecdsa!=0.15->python-jose) (1.16.0)
+Installing collected packages: python-jose
+Successfully installed python-jose-3.3.0
